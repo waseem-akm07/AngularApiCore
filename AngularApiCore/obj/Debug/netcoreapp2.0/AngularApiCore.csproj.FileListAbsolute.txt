@@ -1,0 +1,11 @@
+E:\Company_Task\AngularApiCore\AngularApiCore\bin\Debug\netcoreapp2.0\AngularApiCore.deps.json
+E:\Company_Task\AngularApiCore\AngularApiCore\bin\Debug\netcoreapp2.0\AngularApiCore.runtimeconfig.json
+E:\Company_Task\AngularApiCore\AngularApiCore\bin\Debug\netcoreapp2.0\AngularApiCore.runtimeconfig.dev.json
+E:\Company_Task\AngularApiCore\AngularApiCore\bin\Debug\netcoreapp2.0\AngularApiCore.dll
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.csprojAssemblyReference.cache
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.csproj.CoreCompileInputs.cache
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.AssemblyInfoInputs.cache
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.AssemblyInfo.cs
+E:\Company_Task\AngularApiCore\AngularApiCore\bin\Debug\netcoreapp2.0\AngularApiCore.pdb
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.dll
+E:\Company_Task\AngularApiCore\AngularApiCore\obj\Debug\netcoreapp2.0\AngularApiCore.pdb
